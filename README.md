@@ -3,9 +3,9 @@
 **Pattern:** Batch Customer 360 · Central Decisioning · High-throughput omnichannel serving
 **Platform:** Hybrid (on-prem + AWS)
 
-![Architecture](architecture.png)
+[![FinServABC CX Architecture](architecture.png)](architecture.png)
 
-> Source diagram: [`architecture.drawio`](architecture.drawio)
+> Editable source: [`architecture.drawio`](architecture.drawio). Open in [draw.io](https://app.diagrams.net).
 
 ## 1. Goals
 
